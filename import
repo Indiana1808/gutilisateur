@@ -1,5 +1,0 @@
-#!/bin/bash 
-
-IFS=","
-while read f1 f2 f3
- do
